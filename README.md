@@ -9,22 +9,13 @@ The production fields are:
   * UFL / ha, Unit of Forage milk by hectar
   * kg CP / ha, kilograms of Crude Protein by hectar
 
-The input variables are 15:
-* Location
-* Year
-* Cultivar
-* Sowing date(Julian day)
-* Growing Season (days)
-* Elevation (m)
-* WHC(mm)
-* C(%)
-* pH
-* Tmax(ºC)
-* Tmin(ºC)
-* Radiation(MJ/m2 day)
-* Precipitation(mm)
-* Anthesis date(Julian day)
-* Harvest date(Julian day)
+The input variables are 14:
+|   	|   	|   	|   	|
+|---	|---	|---	|---	|
+|Location   	| Year  	| Cultivar 	| Sowing date(Julian day) |Growing Season (days)|
+| Elevation (m)  	|WHC(mm)   	|C(%)    	| pH  	|
+| Tmax(ºC)  	| Tmin(ºC)  	| Radiation(MJ/m2 day)  	|Precipitation(mm)   	|
+|Anthesis date(Julian day) |Harvest date(Julian day) |---- |---  | 
 
 ## Code: Jupyter Notebooks for forage maize yields (Dry Matter, Crude Protein and UFL)
 
