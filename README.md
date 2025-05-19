@@ -11,7 +11,7 @@ Data and code for article: "A machine learning approach for estimating forage ma
 📅 [Dataset (MS Excel file)](https://github.com/sgcortes/25ForageYieldNWSpain/blob/6cec3334f8163dfc43892384b56c27ee7168ea92/260324_ENG_MaizeForageSpainNWwtYearRadDay.xlsx)
 
 The data file contains 1449 data for forage maize production covering 23 years from 2000 to 2022 and corresponds to 7 locations in NW of Spain (Grado, Barcia and Villaviciosa) in Asturias and (Ordes, Ribadeo, Sarria and Deza) in Galicia region. 
-The production fields are: 
+The production variables are: 
   * kg DM/ha, kilograms of Dry Matter by hectar 
   * UFL / ha, Unit of Forage milk by hectar
   * kg CP / ha, kilograms of Crude Protein by hectar
