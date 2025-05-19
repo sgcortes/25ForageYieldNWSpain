@@ -11,7 +11,7 @@ The production fields are:
 
 The input variables are 14:
 |   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|---- |----|-----	|----- |
 |Location   	| Year  	| Cultivar 	| Sowing date(Julian day) |Growing Season (days)|
 | Elevation (m)  	|WHC(mm)   	|C(%)    	| pH  	|
 | Tmax(ºC)  	| Tmin(ºC)  	| Radiation(MJ/m2 day)  	|Precipitation(mm)   	|
